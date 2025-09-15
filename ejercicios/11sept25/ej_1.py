@@ -1,3 +1,4 @@
+import numpy as np
 """
 Ejercicio 1: Lista de equipos
 
@@ -68,15 +69,21 @@ Inserta un nuevo jugador con 8 goles en la posición correcta para mantener el o
 
 goles = [20,25,30,34]
 
-print("hay "+ len(goles)+ "jugadores")
+numJugadores = len(goles)
+
+print("hay "+ str(numJugadores) + "jugadores")
 
 goles.sort()
 
-print(min(goles))
-
-
+print('el minimo de goles es' + str(min(goles)))
 print(max(goles))
 
+
+mi_media = sum(goles)/numJugadores
+print('La media es ' + str(mi_media))
+
+media = np.mean(goles)
+print(media)
 
 
 
