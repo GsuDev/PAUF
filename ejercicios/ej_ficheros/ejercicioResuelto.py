@@ -49,3 +49,6 @@ with open(f'/Users/gsu/Documents/GitHub/PAUF/apuntes/ficheros/{ahora}.txt', "a")
       fr.write(')\n')
 
 
+#Buen trabajo, escalable y muy claro. Tenemos que ver lo de las rutas y otra cosa los archivos no puedes nombrarlos con dos puntos por eso he formateado yo solo con dia, mes y año. En mac no se si te deja
+#pero en linux por ejemplo que es el so que se usa para desplegar aplicaciones que es donde van a estar los logs, no se come. Quita hora, luego mas adelante os enseño a que cada vez que insertemos una linea de log se pone la hora.
+#Pero muy bien
