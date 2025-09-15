@@ -1,57 +1,44 @@
-# Clase-PAUF-DAW2 📚
+# 📚 Programación de Aplicaciones con Frameworks  
 
-Repositorio de la asignatura **PAUF** de 2º de DAW.  
-Aquí encontrarás apuntes, ejercicios, prácticas y material de apoyo trabajado en clase.
-
----
-
-## 📂 Estructura del repositorio
-
-- `apuntes/` → Resúmenes y explicaciones teóricas.
-- `ejercicios/` → Ejercicios prácticos hechos en clase o para entregar.
-- `practicas/` → Proyectos más grandes de la asignatura.
-- `recursos/` → Material adicional (guías, enlaces, documentación).
+Este repositorio recoge todo el material, ejercicios y prácticas de la asignatura **Programación de Aplicaciones utilizando Frameworks (CLM1042)**, con una duración de **80 horas** y orientada a aprender a desarrollar aplicaciones completas utilizando diferentes frameworks tanto de **BackEnd** como de **FrontEnd**.  
 
 ---
 
-## 🚀 Objetivos de la asignatura
+## 🚀 ¿De qué va esta asignatura?
 
-- Comprender los fundamentos de **Programación y Administración de Unidades Formativas (PAUF)**.
-- Aplicar buenas prácticas en el desarrollo de aplicaciones.
-- Desarrollar proyectos que integren teoría y práctica.
-- Trabajar con repositorios y control de versiones en equipo.
+En esta materia aprenderemos a:  
 
----
+- ⚙️ Crear aplicaciones **BackEnd** con frameworks de servidor (rutas, controladores, bases de datos, APIs RESTful…).  
+- 🎨 Desarrollar aplicaciones **FrontEnd** con frameworks de cliente (componentes, gestión de estado, eventos, sesiones…).  
+- 🌍 Desplegar aplicaciones en entornos de producción con buenas prácticas de seguridad y automatización.  
+- 🖌️ Diseñar interfaces de usuario con frameworks de diseño (componentes, estilos, responsive, animaciones).  
+- 🧪 Implementar **tests automáticos** (unitarios, integración, E2E) para asegurar el correcto funcionamiento de nuestras apps.  
 
-## 🛠️ Tecnologías usadas
-
-- **Lenguajes**: [añade aquí los que uséis en clase, ej. Java, PHP, SQL, etc.]
-- **Herramientas**: Git, GitHub, IntelliJ, VS Code
-- **Otros**: [añade frameworks, librerías o entornos relevantes]
+En resumen: vamos a aprender a construir aplicaciones **profesionales, seguras y mantenibles** de principio a fin.  
 
 ---
 
-## 📅 Organización
+## 📂 Estructura del Repositorio
 
-- El repositorio se irá actualizando con el contenido trabajado en cada clase.
-- Se incluirán tanto ejemplos vistos con el profesor como ejercicios extra de práctica.
+La organización de carpetas será la siguiente:  
 
----
+```
 
-## 👨‍🏫 Profesor
+📦 Programacion-Frameworks
+┣ 📁 apuntes          # Resúmenes y teoría de clase
+┣ 📁 ejercicios       # Ejercicios propuestos para practicar
+┣ 📁 codigo-clase     # Ejemplos y proyectos vistos en clase
+┣ 📁 proyectos        # Prácticas y proyectos más grandes
+┗ 📄 README.md        # Este archivo
 
-**Clase-PAUF-DAW2**  
-Repositorio de apoyo para seguir las clases y practicar de manera autónoma.
-
----
-
-## 🤝 Contribuciones
-
-- Este repo está pensado como espacio de trabajo y repaso.  
-- Si encuentras algún error o mejora, siéntete libre de hacer un **pull request** o abrir un **issue**.
+```
 
 ---
 
-## 📜 Licencia
+## 🎯 Objetivo Personal
 
-Este repositorio se distribuye bajo la licencia [MIT](LICENSE).
+Este repositorio me servirá para:  
+
+- Tener organizados todos los materiales de la asignatura.  
+- Practicar buenas prácticas de **versionado con Git y GitHub**.  
+- Disponer de una base de ejemplos para futuros proyectos personales o profesionales.  
