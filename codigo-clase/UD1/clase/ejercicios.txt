@@ -1,0 +1,32 @@
+Ejercicio 1: Lista de equipos
+
+Crea una lista con los 5 primeros equipos de la clasificación (puedes inventar el orden).
+
+1. Muestra en pantalla el primer y último equipo.
+
+2. Añade un equipo nuevo al final de la lista.
+
+3. Inserta a mano un equipo en la primera posición.
+
+4. Elimina un equipo que ya no quieras que esté en la lista.
+
+-------------------------------------------------------------------------------------------------------
+Ejercicio 2: Jornada de partidos
+
+Crea dos listas:
+locales = ["Real Madrid", "Barcelona", "Atlético", "Sevilla", "Valencia"]
+visitantes = ["Athletic", "Betis", "Cádiz", "Villarreal", "Osasuna"]
+imprimir los partidos en formato:
+Real Madrid vs Athletic
+Barcelona vs Betis
+
+Elimina un partido (por ejemplo, el de Sevilla vs Villarreal).
+Añade un nuevo partido con un equipo inventado.
+
+--------------------------------------------------------------------------------------------
+Ejercicio 3: Clasificación de goleadores
+Crea una lista con los goles de 6 jugadores:
+Muestra cuántos jugadores hay
+Ordena la lista de goles de menor a mayor y luego de mayor a menor.
+Muestra el máximo y el mínimo de la lista (max() y min()).
+Inserta un nuevo jugador con 8 goles en la posición correcta para mantener el orden.
