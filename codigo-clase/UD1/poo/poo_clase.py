@@ -2,28 +2,49 @@
 class Edificio:
   
   # Constructor de la clase
-  def __init__(self, puertas, plantas, ventanas = None):
+  def __init__(self, puertas, plantas, ventanas):
     self.__puertas = puertas
     self.__plantas = plantas
     self.__ventanas = ventanas
   
-  
-  def set_ventanas(self, ventanas):
-    self.__ventanas = ventanas
-  
-  def get_ventanas(self):
-    return self.__ventanas
+
+  @property
+  def puertas(self):
+      return self.__puertas
+
+  @puertas.setter
+  def puertas(self, value):
+      self.__puertas = value
+
+  @property
+  def plantas(self):
+      return self.__plantas
+
+  @plantas.setter
+  def plantas(self, value):
+      self.__plantas = value
+
+  @property
+  def ventanas(self):
+      return self.__ventanas
+
+  @ventanas.setter
+  def ventanas(self, value):
+      self.__ventanas = value
+
   
   # to string
   def __str__(self):
     return f"Hay {self.__puertas} puertas y {self.__ventanas} ventanas"
   
+  
+  
 
 
 edificio = Edificio(10, 40, 30)
-print(edificio.get_ventanas())
-edificio.set_ventanas(60)
-print(edificio.get_ventanas())
+print(edificio.ventanas)
+edificio.ventanas = 60
+print(edificio.ventanas)
 
 class Persona:
   def __init__(self, dni, nombre, apellidos):
