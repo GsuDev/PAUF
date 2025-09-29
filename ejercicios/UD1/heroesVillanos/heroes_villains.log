@@ -1,97 +1,13 @@
-2025-09-29 13:02:58,164 - INFO - Gestor de Personajes inicializado
-2025-09-29 13:02:58,164 - INFO - Personaje creado: Juan Pérez con ID 1
-2025-09-29 13:02:59,053 - INFO - Puntuación total calculada para héroe Juan: 42.45
-2025-09-29 13:02:59,053 - INFO - Héroe creado: Juan Pérez - Traits: {'CodigoLimpio': 23, 'BienDocumentado': 12, 'GITGod': 92, 'Arquitecto': 6, 'Detallista': 98}
-2025-09-29 13:02:59,053 - INFO - Héroe añadido exitosamente al sistema: Juan Pérez
-2025-09-29 13:02:59,065 - INFO - Edad calculada para Juan Pérez: 30 años
-2025-09-29 13:02:59,065 - INFO - Personaje creado: María García con ID 2
-2025-09-29 13:02:59,065 - INFO - Puntuación total calculada para héroe María: 64.3
-2025-09-29 13:02:59,065 - INFO - Héroe creado: María García - Traits: {'CodigoLimpio': 81, 'BienDocumentado': 24, 'GITGod': 98, 'Arquitecto': 36, 'Detallista': 83}
-2025-09-29 13:02:59,065 - INFO - Héroe añadido exitosamente al sistema: María García
-2025-09-29 13:02:59,066 - INFO - Edad calculada para María García: 33 años
-2025-09-29 13:02:59,066 - INFO - Personaje creado: Carlos López con ID 3
-2025-09-29 13:02:59,066 - INFO - Puntuación total calculada para héroe Carlos: 62.60000000000001
-2025-09-29 13:02:59,066 - INFO - Héroe creado: Carlos López - Traits: {'CodigoLimpio': 22, 'BienDocumentado': 98, 'GITGod': 83, 'Arquitecto': 97, 'Detallista': 10}
-2025-09-29 13:02:59,066 - INFO - Héroe añadido exitosamente al sistema: Carlos López
-2025-09-29 13:02:59,066 - INFO - Edad calculada para Carlos López: 26 años
-2025-09-29 13:02:59,066 - INFO - Personaje creado: Ana Martín con ID 4
-2025-09-29 13:02:59,066 - INFO - Puntuación total calculada para héroe Ana: 49.75
-2025-09-29 13:02:59,066 - INFO - Héroe creado: Ana Martín - Traits: {'CodigoLimpio': 56, 'BienDocumentado': 21, 'GITGod': 82, 'Arquitecto': 15, 'Detallista': 81}
-2025-09-29 13:02:59,066 - INFO - Héroe añadido exitosamente al sistema: Ana Martín
-2025-09-29 13:02:59,066 - INFO - Edad calculada para Ana Martín: 31 años
-2025-09-29 13:02:59,066 - INFO - Personaje creado: Luis Sánchez con ID 5
-2025-09-29 13:02:59,066 - INFO - Puntuación total calculada para héroe Luis: 34.45
-2025-09-29 13:02:59,066 - INFO - Héroe creado: Luis Sánchez - Traits: {'CodigoLimpio': 13, 'BienDocumentado': 73, 'GITGod': 11, 'Arquitecto': 57, 'Detallista': 20}
-2025-09-29 13:02:59,066 - INFO - Héroe añadido exitosamente al sistema: Luis Sánchez
-2025-09-29 13:02:59,066 - INFO - Edad calculada para Luis Sánchez: 29 años
-2025-09-29 13:02:59,066 - INFO - Personaje creado: Fernando Rodríguez con ID 6
-2025-09-29 13:02:59,066 - INFO - Puntuación total calculada para villano Fernando: 46.85
-2025-09-29 13:02:59,066 - INFO - Villano creado: Fernando Rodríguez - Traits: {'Chagepeteador': 77, 'EntregadorTardio': 54, 'Ausencias': 31, 'Hablador': 44}
-2025-09-29 13:02:59,067 - INFO - Villano añadido exitosamente al sistema: Fernando Rodríguez
-2025-09-29 13:02:59,067 - INFO - Edad calculada para Fernando Rodríguez: 32 años
-2025-09-29 13:02:59,067 - INFO - Personaje creado: Carmen Jiménez con ID 7
-2025-09-29 13:02:59,067 - INFO - Puntuación total calculada para villano Carmen: 27.650000000000006
-2025-09-29 13:02:59,067 - INFO - Villano creado: Carmen Jiménez - Traits: {'Chagepeteador': 72, 'EntregadorTardio': 75, 'Ausencias': 76, 'Hablador': 65}
-2025-09-29 13:02:59,067 - INFO - Villano añadido exitosamente al sistema: Carmen Jiménez
-2025-09-29 13:02:59,067 - INFO - Edad calculada para Carmen Jiménez: 33 años
-2025-09-29 13:02:59,067 - INFO - Personaje creado: Pedro Morales con ID 8
-2025-09-29 13:02:59,067 - INFO - Puntuación total calculada para villano Pedro: 35.400000000000006
-2025-09-29 13:02:59,067 - INFO - Villano creado: Pedro Morales - Traits: {'Chagepeteador': 99, 'EntregadorTardio': 53, 'Ausencias': 85, 'Hablador': 2}
-2025-09-29 13:02:59,067 - INFO - Villano añadido exitosamente al sistema: Pedro Morales
-2025-09-29 13:02:59,067 - INFO - Edad calculada para Pedro Morales: 28 años
-2025-09-29 13:02:59,067 - INFO - Personaje creado: Laura Torres con ID 9
-2025-09-29 13:02:59,067 - INFO - Puntuación total calculada para villano Laura: 40.05
-2025-09-29 13:02:59,067 - INFO - Villano creado: Laura Torres - Traits: {'Chagepeteador': 80, 'EntregadorTardio': 88, 'Ausencias': 27, 'Hablador': 36}
-2025-09-29 13:02:59,067 - INFO - Villano añadido exitosamente al sistema: Laura Torres
-2025-09-29 13:02:59,067 - INFO - Edad calculada para Laura Torres: 30 años
-2025-09-29 13:02:59,067 - INFO - Personaje creado: Miguel Ruiz con ID 10
-2025-09-29 13:02:59,067 - INFO - Puntuación total calculada para villano Miguel: 76.6
-2025-09-29 13:02:59,067 - INFO - Villano creado: Miguel Ruiz - Traits: {'Chagepeteador': 6, 'EntregadorTardio': 46, 'Ausencias': 10, 'Hablador': 38}
-2025-09-29 13:02:59,068 - INFO - Villano añadido exitosamente al sistema: Miguel Ruiz
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Miguel Ruiz: 26 años
-2025-09-29 13:02:59,068 - INFO - Estadísticas calculadas: {'total_heroes': 5, 'total_villains': 5, 'total_characters': 10, 'average_hero_score': 50.71, 'average_villain_score': 45.31}
-2025-09-29 13:02:59,068 - INFO - Búsqueda de héroes completada: 1 resultados encontrados para name equal Juan
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Juan Pérez: 30 años
-2025-09-29 13:02:59,068 - INFO - Búsqueda de héroes completada: 4 resultados encontrados para GITGod greater 50
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Juan Pérez: 30 años
-2025-09-29 13:02:59,068 - INFO - Edad calculada para María García: 33 años
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Carlos López: 26 años
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Ana Martín: 31 años
-2025-09-29 13:02:59,068 - INFO - Búsqueda de villanos completada: 4 resultados encontrados para Chagepeteador greater 70
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Fernando Rodríguez: 32 años
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Carmen Jiménez: 33 años
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Pedro Morales: 28 años
-2025-09-29 13:02:59,068 - INFO - Edad calculada para Laura Torres: 30 años
-2025-09-29 13:02:59,069 - INFO - Búsqueda de héroes completada: 2 resultados encontrados para points greater 60
-2025-09-29 13:02:59,069 - INFO - Edad calculada para María García: 33 años
-2025-09-29 13:02:59,069 - INFO - Edad calculada para Carlos López: 26 años
-2025-09-29 13:02:59,069 - INFO - Obtenidos todos los héroes: 5 héroes encontrados
-2025-09-29 13:02:59,069 - INFO - Obtenidos todos los villanos: 5 villanos encontrados
-2025-09-29 13:02:59,069 - INFO - Edad calculada para Juan Pérez: 30 años
-2025-09-29 13:02:59,069 - INFO - Edad calculada para María García: 33 años
-2025-09-29 13:02:59,069 - INFO - Edad calculada para Carlos López: 26 años
-2025-09-29 13:02:59,069 - INFO - Emparejamiento aleatorio creado: Luis vs Miguel - Diferencia de puntuación: 42.15 - Alta desviación - Enfrentamiento muy desequilibrado
-2025-09-29 13:02:59,069 - INFO - Emparejamiento aleatorio creado: Luis vs Miguel - Diferencia de puntuación: 42.15 - Alta desviación - Enfrentamiento muy desequilibrado
-2025-09-29 13:02:59,069 - INFO - Emparejamiento aleatorio creado: Ana vs Fernando - Diferencia de puntuación: 2.90 - Enfrentamiento perfectamente equilibrado
-2025-09-29 13:02:59,069 - INFO - Emparejamiento aleatorio creado: Ana vs Miguel - Diferencia de puntuación: 26.85 - Desequilibrio moderado
-2025-09-29 13:02:59,069 - INFO - Emparejamiento aleatorio creado: Juan vs Miguel - Diferencia de puntuación: 34.15 - Desequilibrio moderado
-2025-09-29 13:02:59,069 - INFO - Héroe encontrado por ID 1: Juan Pérez
-2025-09-29 13:02:59,069 - INFO - Edad calculada para Juan Pérez: 30 años
-2025-09-29 13:02:59,069 - INFO - Héroe encontrado por ID 3: Carlos López
-2025-09-29 13:02:59,069 - INFO - Edad calculada para Carlos López: 26 años
-2025-09-29 13:02:59,069 - INFO - Héroe encontrado por ID 5: Luis Sánchez
-2025-09-29 13:02:59,069 - INFO - Edad calculada para Luis Sánchez: 29 años
-2025-09-29 13:02:59,070 - INFO - Obtenidos todos los héroes: 5 héroes encontrados
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Juan Pérez: 30 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para María García: 33 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Carlos López: 26 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Ana Martín: 31 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Luis Sánchez: 29 años
-2025-09-29 13:02:59,070 - INFO - Obtenidos todos los villanos: 5 villanos encontrados
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Fernando Rodríguez: 32 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Carmen Jiménez: 33 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Pedro Morales: 28 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Laura Torres: 30 años
-2025-09-29 13:02:59,070 - INFO - Edad calculada para Miguel Ruiz: 26 años
-2025-09-29 13:09:29,891 - INFO - Gestor de Personajes inicializado
-2025-09-29 13:09:32,739 - INFO - Sistema cerrado por el usuario
+2025-09-29 19:11:03,581 - INFO - Gestor de Personajes inicializado
+2025-09-29 19:11:31,880 - INFO - Personaje creado: Juan juanez con ID 1
+2025-09-29 19:11:32,836 - INFO - Puntuación total calculada para héroe Juan: 58.25
+2025-09-29 19:11:32,837 - INFO - Héroe creado: Juan juanez - Traits: {'CodigoLimpio': 72, 'BienDocumentado': 42, 'GITGod': 42, 'Arquitecto': 46, 'Detallista': 95}
+2025-09-29 19:11:32,837 - INFO - Héroe añadido exitosamente al sistema: Juan juanez
+2025-09-29 19:11:32,841 - ERROR - Error calculando edad para Juan juanez: time data '2009' does not match format '%Y-%m-%d'
+2025-09-29 19:11:57,909 - INFO - Búsqueda de villanos completada: 0 resultados encontrados para  equal 
+2025-09-29 19:12:31,151 - INFO - Personaje creado: pedro sanchez con ID 2
+2025-09-29 19:12:31,151 - INFO - Puntuación total calculada para villano pedro: 42.650000000000006
+2025-09-29 19:12:31,151 - INFO - Villano creado: pedro sanchez - Traits: {'Chagepeteador': 72, 'EntregadorTardio': 73, 'Ausencias': 26, 'Hablador': 55}
+2025-09-29 19:12:31,151 - INFO - Villano añadido exitosamente al sistema: pedro sanchez
+2025-09-29 19:12:31,152 - INFO - Edad calculada para pedro sanchez: 25 años
+2025-09-29 19:12:53,599 - INFO - Sistema cerrado por el usuario
